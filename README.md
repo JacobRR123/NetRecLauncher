@@ -1,2 +1,2 @@
 # RecBoxLauncher
-This is all the data need for RecBox to download server updates.
+This is all the data needed for RecBox to download server updates.
